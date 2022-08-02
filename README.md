@@ -1,3 +1,3 @@
 # smilehugo.com
-## Tech Stack
-- Gatsby
+## Used Technology
+- Node.js, React, Gatsby, GraphQL
